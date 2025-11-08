@@ -912,8 +912,9 @@ h2.post-title.entry-title,.date-header,#blog-pager,#right-bar,.dipostingan{displ
 
 /* ===== CSS CUMA DI BACK TO TOP ===== */
 
-#back-to-top{background:#2196F3;opacity:0.6;color:#ffffff;padding:7px 9px;font-size:20px;border-radius:4px;transition:all 1s ease 50ms;}.back-to-top{position:fixed!important;position:absolute;bottom:20px;left:10px;z-index:99999;}#back-to-top:hover {opacity:1;transition:all 1s ease 50ms;}@media (max-width: 480px){.back-to-top {bottom:20px;}}
+#back-to-top{background:#2196F3!important;opacity:0.6!important;color:#ffffff!important;padding:7px 9px!important;font-size:20px!important;border-radius:4px!important;transition:all 1s ease 50ms!important;}.back-to-top{position:fixed!important;position:absolute!important;bottom:20px!important;left:10px!important;z-index:99999!important;}#back-to-top:hover {opacity:1!important;transition:all 1s ease 50ms!important;}@media (max-width: 480px){.back-to-top {bottom:20px!important;}}
 
 
 	</style>		
+
 
