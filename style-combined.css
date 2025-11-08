@@ -892,7 +892,7 @@ h2.post-title.entry-title,.date-header,#blog-pager,#right-bar,.dipostingan{displ
 
 /* ===== CSS CUMA DI CTA ===== */
 
-.cta-section {background: linear-gradient(135deg, #2167c7, #FF8C00);padding: 50px 20px;text-align: center;border-radius: 12px;margin: 50px auto;color: #fff;max-width: 1200px;}.cta-title {font-size: 26px;font-weight: bold;margin-bottom: 10px;}.cta-text {font-size: 15px;margin-bottom: 25px;}.cta-buttons {display: flex;justify-content: center;flex-wrap: wrap;gap: 15px;}.btn-wrapper {display: inline-block;vertical-align: middle;}.cta-buttons a {display: inline-block;padding: 12px 25px;border-radius: 30px;font-weight: bold;text-decoration: none;text-align: center;line-height: 1.2;min-width: 0;box-sizing: border-box;}.btn-wa {background-color: #2167c7 !important;color: #fff;}.btn-wa:hover {background-color: #174b90 !important;}.btn-price {background-color: #fff;color: #2167c7;}.btn-price:hover {background-color: #ddd;}
+.cta-section {background: linear-gradient(135deg, #2167c7, #FF8C00)!important;padding: 50px 20px;text-align: center;border-radius: 12px;margin: 50px auto;color: #fff;max-width: 1200px;}.cta-title {font-size: 26px;font-weight: bold;margin-bottom: 10px;}.cta-text {font-size: 15px;margin-bottom: 25px;}.cta-buttons {display: flex;justify-content: center;flex-wrap: wrap;gap: 15px;}.btn-wrapper {display: inline-block;vertical-align: middle;}.cta-buttons a {display: inline-block;padding: 12px 25px;border-radius: 30px;font-weight: bold;text-decoration: none;text-align: center;line-height: 1.2;min-width: 0;box-sizing: border-box;}.btn-wa {background-color: #2167c7 !important;color: #fff;}.btn-wa:hover {background-color: #174b90 !important;}.btn-price {background-color: #fff;color: #2167c7;}.btn-price:hover {background-color: #ddd;}
 
 /* ===== CSS CUMA DI FAQ ===== */
 
@@ -913,5 +913,6 @@ h2.post-title.entry-title,.date-header,#blog-pager,#right-bar,.dipostingan{displ
 /* ===== CSS CUMA DI BACK TO TOP ===== */
 
 #back-to-top{background:#2196F3;opacity:0.6;color:#ffffff;padding:7px 9px;font-size:20px;border-radius:4px;transition:all 1s ease 50ms;}.back-to-top{position:fixed!important;position:absolute;bottom:20px;left:10px;z-index:99999;}#back-to-top:hover {opacity:1;transition:all 1s ease 50ms;}@media (max-width: 480px){.back-to-top {bottom:20px;}}
+
 
 	</style>		
