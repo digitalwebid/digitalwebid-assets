@@ -904,7 +904,7 @@ h2.post-title.entry-title,.date-header,#blog-pager,#right-bar,.dipostingan{displ
 
 /* ===== CSS CUMA DI SHARE POST ===== */
 
-.sharepost,#artikelterkait{display:none}
+.sharepost,#artikelterkait{display:none!important;}
 
 /* ===== CSS CUMA DI GET BUTTON WA ===== */
 
@@ -916,3 +916,4 @@ h2.post-title.entry-title,.date-header,#blog-pager,#right-bar,.dipostingan{displ
 
 
 	</style>		
+
