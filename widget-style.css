@@ -1,0 +1,62 @@
+<!-- AWAL CSS NAVBAR -->
+
+.navbar{background:#2167c7;color:#fff;box-shadow:0 0 3px rgba(0,0,0,.2);-webkit-transition:background .3s ease-out;transition:background .3s ease-out;margin:0}.navbar .container{padding:0 0 20px}.navbar-brand img{margin-right:5px;max-width:280px;padding-top:0;margin-top:-20px}.navbar-brand{display:inline-block;font-size:20px;font-weight:400;color:#fff}.navbar-brand,.navbar-brand:active,.navbar-brand:focus,.navbar-brand:hover{padding-top:10px;font-size:14px;line-height:20px;font-weight:400;color:#fff}.navbar-brand img{display:inline}.navbar-brand span{font-size:36px;font-weight:700}.navbar.scrolled .navbar-brand span{font-size:30px}.navbar.scrolled{background:#2167c7;box-shadow:0 0 3px rgba(0,0,0,.2)}.navbar.scrolled .navbar-toggle{color:#fff;border-color:#fff}.navbar.scrolled .navbar-toggle .icon-bar{background:#2167c7}.navbar.scrolled .container{padding:0 20px 15px 20px}.navbar .nav{padding-top:5px}.navbar .scrolled .nav{padding-top:10px}.scrolled .navbar-brand img{margin-right:5px;max-width:230px;padding-top:0;margin-top:1px}.navbar .nav a,.navbar .nav a:active,.navbar .nav a:focus,.navbar .nav a:hover{padding:0 10px;font-size:18px;line-height:40px;font-weight:400;background:0 0;color:#fde3e4;transition:color .2s ease-in}.navbar .nav a:hover{padding:0 10px;font-size:18px;line-height:40px;font-weight:400;color:#fff;transition:color .2s ease-in;border-bottom:#fff solid 2px}.navbar.scrolled .nav a,.navbar.scrolled .nav a:active,.navbar.scrolled .nav a:hover{color:#fde3e4}.navbar.scrolled .nav a:hover,.navbar.scrolled .nav li.active a{color:#fff}.navbar li{background:0 0;margin:0 5px}.navbar ul .dropdown-menu{background:#2167c7}.navbar .container{padding:20px;-webkit-transition:padding .5s ease-out;transition:padding .5s ease-out}.renggang{padding-top:120px;padding-bottom:100px}@media (max-width:991px){.navbar .nav a,.navbar .nav a:active,.navbar .nav a:hover{font-size:16px}.navbar li{margin:0 5px}.navbar-brand img{margin-left:0;max-width:250px}.scrolled .navbar-brand img{margin-left:0;max-width:220px;padding-top:0;margin-top:-5px}}@media (max-width:767px){.navbar{background:#2167c7;box-shadow:0 0 3px rgba(0,0,0,.2)}.navbar .navbar-toggle{margin-bottom:5px;margin-top:5px;color:#fde3e4;border-color:transparent!important}.navbar .navbar-toggle .icon-bar{width:28px;height:4px;margin-top:0;background:#fff!important}.navbar .navbar-toggle .icon-bar+.icon-bar{margin-top:4px}.navbar .container{padding:0 10px 15px 10px}.navbar .scrolled .container{padding:0 10px 8px 10px}.navbar .nav a,.navbar .nav a:active,.navbar .nav a:hover{line-height:42px;text-align:left;color:#fde3e4}.navbar .nav a:hover,.navbar .nav li.active a{color:#fff}.navbar-brand,.navbar-brand:active,.navbar-brand:focus,.navbar-brand:hover{padding-top:10px;font-size:12px;line-height:17px;font-weight:400;color:#fff}.navbar-brand span{font-size:26px;font-weight:700}.navbar.scrolled .navbar-brand span{font-size:20px}.navbar .navbar-brand img{padding-left:0;padding-top:25px;max-width:230px}.header .container{margin-top:-80px}.scrolled .navbar-brand img{margin-top:10px;max-width:230px}.renggang{padding-top:50px;padding-bottom:40px}}
+
+<!-- AKHIR CSS NAVBAR -->
+
+
+<!-- AWAL CSS HEADER -->
+
+.bg-header{background-image:url(https://cdn.jsdelivr.net/gh/digitalwebid/digitalwebid-assets@ce44f3e7d0166acfb5ea6f9933b592e2b44bc821/Banner%20DigitalWebID%20Baru.webp);background-size:cover;background-repeat:no-repeat;background-position:center top}
+
+<!-- AKHIR CSS HEADER -->
+
+
+<!-- AWAL CSS PAKET HARGA -->
+
+.pricing-section{font-family:Arial,sans-serif;text-align:center;padding:40px 20px;background:#fff}.pricing-section h2{font-size:26px;color:#333;margin-bottom:10px;font-weight:700}.pricing-section p{font-size:15px;color:#555;margin-bottom:30px}.tab-buttons{display:inline-flex;background:#2167c7;padding:5px;border-radius:30px;margin-bottom:30px}.tab-buttons button{background:0 0;border:none;padding:10px 30px;border-radius:30px;color:#fff;font-weight:700;font-size:14px;cursor:pointer;transition:.3s}.tab-buttons button.active{background:#fff;color:#f60}.pricing-cards{display:flex;flex-wrap:wrap;justify-content:center;gap:20px}.card{flex:1 1 300px;max-width:320px;border-radius:12px;padding:25px 20px;box-shadow:0 4px 10px rgba(0,0,0,.1);background:#fff;text-align:left}.card h3{padding:12px;border:none;border-radius:8px;background:#2167c7;font-size:20px;margin-top:3px;font-weight:700;text-align:center;color:#fff}.card .price{font-size:24px;font-weight:700;text-align:center;color:#333;margin:5px 0}.card ul{list-style:none;padding:0;margin:0 0 20px}.card ul li{margin:8px 0;color:#444;font-size:14px}.card a{display:block;width:100%;padding:12px;border:none;border-radius:8px;background:#2167c7;color:#fff;font-weight:700;text-align:center;text-decoration:none}.card a:hover{background:#e85b00}.card.highlight{background:#ff8c00;color:#fff}.card.highlight .price,.card.highlight h3,.card.highlight ul li{color:#fff}.card.highlight a{background:#2167c7}.pricing-cards{display:none}.pricing-cards.active{display:flex}
+
+<!-- AKHIR CSS PAKET HARGA -->
+
+
+<!-- AWAL CSS CTA -->
+
+.cta-section{background:linear-gradient(135deg,#2167c7,#ff8c00);padding:50px 20px;text-align:center;border-radius:12px;margin:50px auto;color:#fff;max-width:1200px}.cta-title{font-size:26px;font-weight:700;margin-bottom:10px}.cta-text{font-size:15px;margin-bottom:25px}.cta-buttons{display:flex;justify-content:center;flex-wrap:wrap;gap:15px}.btn-wrapper{display:inline-block;vertical-align:middle}.cta-buttons a{display:inline-block;padding:12px 25px;border-radius:30px;font-weight:700;text-decoration:none;text-align:center;line-height:1.2;min-width:0;box-sizing:border-box}.btn-wa{background-color:#2167c7!important;color:#fff}.btn-wa:hover{background-color:#174b90!important}.btn-price{background-color:#fff;color:#2167c7}.btn-price:hover{background-color:#ddd}
+
+<!-- AKHIR CSS CTA -->
+
+
+<!-- AWAL CSS FAQ -->
+
+.panel-heading{background:#2167c7!important;color:#fff!important}.panel-body{background:#eaeaea;color:#333;font-size:16px}
+
+<!-- AKHIR CSS FAQ -->
+
+
+<!-- AWAL CSS FORM KONTAK -->
+
+.kontak-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:30px;max-width:1200px;margin:auto;align-items:stretch}.kontak-card{background:#fff;border-radius:12px;padding:30px;box-shadow:0 4px 10px rgba(0,0,0,.08);display:flex;flex-direction:column;justify-content:space-between}.kontak-form{display:flex;flex-direction:column;height:100%}.kontak-body{flex-grow:1}.kontak-footer{margin-top:auto}.kontak-input{width:100%;padding:10px;margin-bottom:15px;border:1px solid #ccc;border-radius:6px;font-size:15px;box-sizing:border-box}.btn-email,.btn-wa{border:none;padding:12px 20px;border-radius:6px;width:100%;font-size:16px;cursor:pointer;color:#fff;transition:.3s ease}.btn-email{background:#007bff}.btn-email:hover{background:#0056d2}.btn-wa{background:#25d366}.btn-wa:hover{background:#1ebc5a}@media (max-width:1024px){.kontak-grid{max-width:900px}}@media (max-width:768px){#kontak-kami{padding:40px 15px}#kontak-kami h1{font-size:26px}#kontak-kami h2{font-size:20px}}
+
+<!-- AKHIR CSS FORM KONTAK -->
+
+
+<!-- AWAL CSS ARTIKEL TERKAIT -->
+
+#artikelterkait,.sharepost{display:none}
+
+<!-- AKHIR CSS ARTIKEL TERKAIT -->
+
+
+<!-- AWAL CSS BACK TO TOP -->
+
+#back-to-top{background:#2196f3;opacity:.6;color:#fff;padding:7px 9px;font-size:20px;border-radius:4px;transition:all 1s ease 50ms}.back-to-top{position:fixed!important;position:absolute;bottom:20px;left:10px;z-index:99999}#back-to-top:hover{opacity:1;transition:all 1s ease 50ms}@media (max-width:480px){.back-to-top{bottom:20px}}
+
+<!-- AKHIR CSS BACK TO TOP -->
+
+
+<!-- AWAL CSS GETT BUTTON WA -->
+
+a[title="Chat via WhatsApp"]:hover{transform:scale(1.1);box-shadow:0 6px 18px rgba(0,0,0,.4)}
+
+<!-- AKHIR CSS GETT BUTTON WA -->
+
